@@ -1,0 +1,24 @@
+{
+  "name": "motorhomescaravans",
+  "version": "1.0.0",
+  "description": "woocommerce",
+  "main": "index.php",
+  "author": "Uttapong Ruangrit",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.1",
+    "gulp-wp-pot": "^2.3.2"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "gulp-sass": "^4.0.1",
+    "gulp-svg-sprite": "^1.4.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
