@@ -325,6 +325,8 @@ nav {
         font-size: .8em;
         line-height: 1.5em;
         margin-top: .7em;
+        overflow: hidden;
+        text-overflow: ellipsis;
     }
 }
 
